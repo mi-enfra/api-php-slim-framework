@@ -1,0 +1,13 @@
+{
+    "name": "marvinenf/api-php-composer",
+    "authors": [
+        {
+            "name": "Marvin Isaac",
+            "email": "misaac@pushnami.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*",
+        "vlucas/phpdotenv": "3.*"
+    }
+}
