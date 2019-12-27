@@ -1,5 +1,5 @@
 #! /bin/bash
 
 docker build --rm \
-    -t marvinenf/php-dev \
+    -t marvinenf/php-slim-dev \
     .

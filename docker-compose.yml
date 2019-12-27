@@ -11,7 +11,7 @@ services:
         links:
             - php
     php:
-        image: marvinenf/php-dev
+        image: marvinenf/php-slim-dev
         network_mode: bridge
         volumes:
             - .:/var/www/html
